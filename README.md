@@ -4,6 +4,12 @@
 
 - [Remix Docs](https://remix.run/docs)
 
+## Add your Github Token
+
+rename .env copy to .env and add your github token
+
+First, build your app for production:
+
 ## Development
 
 From your terminal:
