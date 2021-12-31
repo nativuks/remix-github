@@ -1,3 +1,5 @@
+![](https://github.com/nativuks/remix-github/blob/master/assets/screen-app.png)
+
 # Welcome to Remix!
 
 - [Remix Docs](https://remix.run/docs)
